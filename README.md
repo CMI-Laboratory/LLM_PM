@@ -1,2 +1,2 @@
 # LLM_CPM
-Code for "Data-free Clinical Prediction Model Development Using LLM Knowledge Extraction"
+Code and data for "Data-free Clinical Prediction Model Development via Knowledge Extraction from Large Language Models"
